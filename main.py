@@ -2,13 +2,14 @@ import pygame
 import random
 from collections import deque 
 import  heapq
-import sys
+
 
 pygame.init()
 width=900
 height=1000
 
 screen = pygame.display.set_mode((width,height))
+pygame.display.set_caption('FindThePath')
 font=pygame.font.Font('freesansbold.ttf',25)
 
 N = 20
