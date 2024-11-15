@@ -6,7 +6,7 @@ Visualising multiple path finding algorithms using a grid as a maze to find path
 
 ![image](https://github.com/user-attachments/assets/3c35fd3d-1aec-4897-b3fb-f58a51945a9e)
 
-![image](https://github.com/user-attachments/assets/54b4bc0c-aebc-4614-b45d-965978c0f852)
+
 
 
 
